@@ -104,7 +104,7 @@
         {
                 global $ms;
                 
-                if(get_magic_quotes_gpc())
+                if(function_exists('get_magic_quotes_gpc') && get_magic_quotes_gpc())
                 {
                         $value = stripslashes($value);
                 }
