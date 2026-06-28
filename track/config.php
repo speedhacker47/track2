@@ -30,7 +30,7 @@
         // very often web servers have no $_SERVER['DOCUMENT_ROOT'] set at all, then direct path should be used, for example c:/wamp/www or any other leading to www or public_html folder
         $gsValues['PATH_ROOT'] = $_SERVER['DOCUMENT_ROOT'];
         // url to root of web application, example: $gsValues['URL_ROOT'] = 'YOUR_DOMAIN/track';
-        $gsValues['URL_ROOT'] = 'http://16.112.97.64/';
+        $gsValues['URL_ROOT'] = 'http://16.112.97.64';
                 
         // hardware key, should be same as in GPS-Server.exe
         $gsValues['HW_KEY'] = '467941847A558A6451593B0DDFB86301';
