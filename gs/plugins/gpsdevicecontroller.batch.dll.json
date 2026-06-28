@@ -1,0 +1,2227 @@
+﻿{
+  "Configs": [
+    {
+      "Id": "agps",
+      "FriendlyName": "AGPS",
+      "InternalName": "agps",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10005,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "ais140",
+      "FriendlyName": "AIS140",
+      "InternalName": "ais140",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10012,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "amit",
+      "FriendlyName": "Amit",
+      "InternalName": "amit",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10010,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "amt",
+      "FriendlyName": "AMT",
+      "InternalName": "amt",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10009,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "amwell",
+      "FriendlyName": "Amwell",
+      "InternalName": "amwell",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10002,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "anbtek",
+      "FriendlyName": "ANBTEK",
+      "InternalName": "anbtek",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10008,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "apkcom",
+      "FriendlyName": "APK-COM",
+      "InternalName": "apkcom",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10004,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "aplicom",
+      "FriendlyName": "Aplicom",
+      "InternalName": "aplicom",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10007,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "aquilatrack",
+      "FriendlyName": "AquilaTrack",
+      "InternalName": "aquilatrack",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10006,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "arknav",
+      "FriendlyName": "Arknav",
+      "InternalName": "arknav",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10011,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "atrack",
+      "FriendlyName": "Atrack",
+      "InternalName": "atrack",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10000,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "autofon",
+      "FriendlyName": "AutoFon",
+      "InternalName": "autofon",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10003,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "autoleaders",
+      "FriendlyName": "Autoleaders",
+      "InternalName": "autoleaders",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10001,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "bce",
+      "FriendlyName": "BCE",
+      "InternalName": "bce",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10101,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "benway",
+      "FriendlyName": "Benway",
+      "InternalName": "benway",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10104,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "bitrek",
+      "FriendlyName": "BITREK",
+      "InternalName": "bitrek",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10103,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "bofan",
+      "FriendlyName": "BOFAN",
+      "InternalName": "bofan",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10100,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "boxtelematics",
+      "FriendlyName": "BOX Telematics",
+      "InternalName": "boxtelematics",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10105,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "bstechnotronics",
+      "FriendlyName": "BS Technotronics",
+      "InternalName": "bstechnotronics",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10102,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "c2stek",
+      "FriendlyName": "C2STEK",
+      "InternalName": "c2stek",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10212,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "calamp",
+      "FriendlyName": "Calamp",
+      "InternalName": "calamp",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10208,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "cantrack",
+      "FriendlyName": "Cantrack",
+      "InternalName": "cantrack",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10218,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "careuueco",
+      "FriendlyName": "Careu Ueco",
+      "InternalName": "careuueco",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10213,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "carrideo",
+      "FriendlyName": "Carrideo",
+      "InternalName": "carrideo",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10209,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "castelobd",
+      "FriendlyName": "Castel OBD",
+      "InternalName": "castelobd",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10210,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "castelsat802",
+      "FriendlyName": "Castel SAT-802",
+      "InternalName": "castelsat802",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10211,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "chinaradio",
+      "FriendlyName": "ChinaRadio",
+      "InternalName": "chinaradio",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10205,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "cybergraphy",
+      "FriendlyName": "Cybergraphy G200S/G200X",
+      "InternalName": "cybergraphy",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10204,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "coban",
+      "FriendlyName": "Coban",
+      "InternalName": "coban",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10200,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "cobangmt",
+      "FriendlyName": "Coban GMT",
+      "InternalName": "cobangmt",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10207,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "concoxct10",
+      "FriendlyName": "Concox CT10",
+      "InternalName": "concoxct10",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10221,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "concoxgb100",
+      "FriendlyName": "Concox GB100",
+      "InternalName": "concoxgb100",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10220,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "concoxgt02",
+      "FriendlyName": "Concox GT02/TR02",
+      "InternalName": "concoxgt02",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10203,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "concoxgt03",
+      "FriendlyName": "Concox GT03/GT03A/GT07",
+      "InternalName": "concoxgt03",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10201,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "concoxgt06",
+      "FriendlyName": "Concox GT06/GT06N/GS503",
+      "InternalName": "concoxgt06",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10202,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "concoxgt06edlt",
+      "FriendlyName": "Concox GT06E DLT",
+      "InternalName": "concoxgt06edlt",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10222,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "concoxgt100",
+      "FriendlyName": "Concox ET100/GT100",
+      "InternalName": "concoxgt100",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10206,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "concoxgt300",
+      "FriendlyName": "Concox GT300",
+      "InternalName": "concoxgt300",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10214,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "concoxgt710",
+      "FriendlyName": "Concox GT710",
+      "InternalName": "concoxgt710",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10215,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "concoxgt800",
+      "FriendlyName": "Concox GT800",
+      "InternalName": "concoxgt800",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10216,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "concoxjc100",
+      "FriendlyName": "Concox JC100",
+      "InternalName": "concoxjc100",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10219,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "concoxjm01",
+      "FriendlyName": "Concox JM01",
+      "InternalName": "concoxjm01",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10223,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "concoxjmvl01",
+      "FriendlyName": "Concox JM-VL01",
+      "InternalName": "concoxjmvl01",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10224,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "concoxx1",
+      "FriendlyName": "Concox X1",
+      "InternalName": "concoxx1",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10217,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "dct",
+      "FriendlyName": "DCT",
+      "InternalName": "dct",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10304,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "detero",
+      "FriendlyName": "Detero",
+      "InternalName": "detero",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10302,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "digitalsystemsdsf",
+      "FriendlyName": "Digital Systems DSF",
+      "InternalName": "digitalsystemsdsf",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10300,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "digitalsystemsdsf30",
+      "FriendlyName": "Digital Systems DSF30",
+      "InternalName": "digitalsystemsdsf30",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10303,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "digitalsystemsdsm4",
+      "FriendlyName": "Digital Systems DSM4",
+      "InternalName": "digitalsystemsdsm4",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10305,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "digiwr44",
+      "FriendlyName": "Digi WR44",
+      "InternalName": "digiwr44",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10306,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "disha",
+      "FriendlyName": "Disha",
+      "InternalName": "disha",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10301,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "eelink",
+      "FriendlyName": "EELINK",
+      "InternalName": "eelink",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10400,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "eniac",
+      "FriendlyName": "Eniac",
+      "InternalName": "eniac",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10401,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "eskywireless",
+      "FriendlyName": "eSky Wireless",
+      "InternalName": "eskywireless",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10402,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "eskywirelesses821",
+      "FriendlyName": "eSky Wireless ES821",
+      "InternalName": "eskywirelesses821",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10403,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "falcomsteppiii",
+      "FriendlyName": "Falcom STEPPIII",
+      "InternalName": "falcomsteppiii",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10501,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "falcomsteppiii_wo_gpiop",
+      "FriendlyName": "Falcom STEPPIII w/o GPIOP",
+      "InternalName": "falcomsteppiii_wo_gpiop",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10503,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "fifotrack",
+      "FriendlyName": "Fifotrack",
+      "InternalName": "fifotrack",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10502,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "flextrack",
+      "FriendlyName": "Flextrack",
+      "InternalName": "flextrack",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10500,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "galileosky",
+      "FriendlyName": "GalileoSky",
+      "InternalName": "galileosky",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10604,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "gator",
+      "FriendlyName": "Gator",
+      "InternalName": "gator",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10607,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "genekofox",
+      "FriendlyName": "Geneko Fox",
+      "InternalName": "genekofox",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10606,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "globalsatgtr128",
+      "FriendlyName": "GlobalSat GTR128/GTR129",
+      "InternalName": "globalsatgtr128",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10603,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "globalsattr151",
+      "FriendlyName": "GlobalSat TR151",
+      "InternalName": "globalsattr151",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10600,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "globalsattr203",
+      "FriendlyName": "GlobalSat TR203/TR206",
+      "InternalName": "globalsattr203",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10605,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "globalsattr600",
+      "FriendlyName": "GlobalSat TR600",
+      "InternalName": "globalsattr600",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10601,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "globalsattr606",
+      "FriendlyName": "GlobalSat TR606",
+      "InternalName": "globalsattr606",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10609,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "globalstar",
+      "FriendlyName": "Globalstar",
+      "InternalName": "globalstar",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10612,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "gopass",
+      "FriendlyName": "GoPass",
+      "InternalName": "gopass",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10610,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "gosafe",
+      "FriendlyName": "Gosafe",
+      "InternalName": "gosafe",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10602,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "gosafeg1c",
+      "FriendlyName": "Gosafe G1C",
+      "InternalName": "gosafeg1c",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10611,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "gotop",
+      "FriendlyName": "GoTop",
+      "InternalName": "gotop",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10608,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "haicom",
+      "FriendlyName": "Haicom",
+      "InternalName": "haicom",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10700,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "hbt10",
+      "FriendlyName": "HB-T10",
+      "InternalName": "hbt10",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10701,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "hhdlock",
+      "FriendlyName": "HHDLOCK",
+      "InternalName": "hhdlock",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10703,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "huabao",
+      "FriendlyName": "Huabao",
+      "InternalName": "huabao",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10702,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "inteliot",
+      "FriendlyName": "Inteliot IT",
+      "InternalName": "inteliot",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10800,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "intellitracx1",
+      "FriendlyName": "IntelliTrac X1",
+      "InternalName": "intellitracx1",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10804,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "internex",
+      "FriendlyName": "Internex IGT100",
+      "InternalName": "internex",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10801,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "istartekvt200",
+      "FriendlyName": "iStartek VT200",
+      "InternalName": "istartekvt200",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10807,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "istartekvt206",
+      "FriendlyName": "iStartek VT206",
+      "InternalName": "istartekvt206",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10802,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "istartekvt600",
+      "FriendlyName": "iStartek VT600",
+      "InternalName": "istartekvt600",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10803,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "itrac",
+      "FriendlyName": "iTrac",
+      "InternalName": "itrac",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10805,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "itraca1",
+      "FriendlyName": "iTrac A1",
+      "InternalName": "itraca1",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10806,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "jointech",
+      "FriendlyName": "Jointech",
+      "InternalName": "jointech",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10900,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "jointechjt701",
+      "FriendlyName": "Jointech JT701",
+      "InternalName": "jointechjt701",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10902,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "jointechjt703",
+      "FriendlyName": "Jointech JT703",
+      "InternalName": "jointechjt703",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10903,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "jtrack",
+      "FriendlyName": "jTrack",
+      "InternalName": "jtrack",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 10901,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "keson",
+      "FriendlyName": "Keson",
+      "InternalName": "keson",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11001,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "khd",
+      "FriendlyName": "KHD",
+      "InternalName": "khd",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11002,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "khm100a",
+      "FriendlyName": "KH-M100A",
+      "InternalName": "khm100a",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11000,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "kingwo",
+      "FriendlyName": "Kingwo",
+      "InternalName": "kingwo",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11003,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "lkgps",
+      "FriendlyName": "LKGPS",
+      "InternalName": "lkgps",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11100,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "maestro",
+      "FriendlyName": "Maestro",
+      "InternalName": "maestro",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11205,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "mastrack",
+      "FriendlyName": "Mastrack",
+      "InternalName": "mastrack",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11206,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "maxepor",
+      "FriendlyName": "Maxepor",
+      "InternalName": "maxepor",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11210,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "megastek",
+      "FriendlyName": "Megastek",
+      "InternalName": "megastek",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11202,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "megastekgvt369",
+      "FriendlyName": "Megastek GVT369",
+      "InternalName": "megastekgvt369",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11208,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "megastekgvt800",
+      "FriendlyName": "Megastek GVT800",
+      "InternalName": "megastekgvt800",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11209,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "meiligao",
+      "FriendlyName": "Meiligao",
+      "InternalName": "meiligao",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11200,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "meitrack",
+      "FriendlyName": "Meitrack",
+      "InternalName": "meitrack",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11201,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "meitrackp99g",
+      "FriendlyName": "Meitrack P99G",
+      "InternalName": "meitrackp99g",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11213,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "meitrackt322",
+      "FriendlyName": "Meitrack T322",
+      "InternalName": "meitrackt322",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11204,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "mictrack",
+      "FriendlyName": "Mictrack",
+      "InternalName": "mictrack",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11214,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "minifinder",
+      "FriendlyName": "MiniFinder",
+      "InternalName": "minifinder",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11207,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "minova",
+      "FriendlyName": "Minova",
+      "InternalName": "minova",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11211,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "mplatam100",
+      "FriendlyName": "M-Plata M100",
+      "InternalName": "mplatam100",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11203,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "mplatam15",
+      "FriendlyName": "M-Plata M15",
+      "InternalName": "mplatam15",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11215,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "mplatat150",
+      "FriendlyName": "M-Plata T150",
+      "InternalName": "mplatat150",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11212,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "navtelecom",
+      "FriendlyName": "Navtelecom",
+      "InternalName": "navtelecom",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11300,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "neomatica",
+      "FriendlyName": "Neomatica",
+      "InternalName": "neomatica",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11302,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "noran",
+      "FriendlyName": "Noran",
+      "InternalName": "noran",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11301,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "oigo",
+      "FriendlyName": "Oigo",
+      "InternalName": "oigo",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11403,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "oko",
+      "FriendlyName": "OKO",
+      "InternalName": "oko",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11402,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "oner",
+      "FriendlyName": "Oner",
+      "InternalName": "oner",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11401,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "oriontechnology",
+      "FriendlyName": "Orion Technology",
+      "InternalName": "oriontechnology",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11400,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "pftechnologies",
+      "FriendlyName": "PF Technologies",
+      "InternalName": "pftechnologies",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11502,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "pointer",
+      "FriendlyName": "Pointer",
+      "InternalName": "pointer",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11500,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "pretrace",
+      "FriendlyName": "Pretrace",
+      "InternalName": "pretrace",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11501,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "qbit",
+      "FriendlyName": "Qbit",
+      "InternalName": "qbit",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11621,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclink",
+      "FriendlyName": "Queclink",
+      "InternalName": "queclink",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11600,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgb100",
+      "FriendlyName": "Queclink GB100",
+      "InternalName": "queclinkgb100",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11620,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgl200",
+      "FriendlyName": "Queclink GL200",
+      "InternalName": "queclinkgl200",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11603,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgl300",
+      "FriendlyName": "Queclink GL300",
+      "InternalName": "queclinkgl300",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11604,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "queclinkgl300a",
+      "FriendlyName": "Queclink GL300A",
+      "InternalName": "queclinkgl300a",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11626,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "queclinkgl300m",
+      "FriendlyName": "Queclink GL300M",
+      "InternalName": "queclinkgl300m",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11627,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgl300w",
+      "FriendlyName": "Queclink GL300W",
+      "InternalName": "queclinkgl300w",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11616,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgl500",
+      "FriendlyName": "Queclink GL500",
+      "InternalName": "queclinkgl500",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11607,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "queclinkgl500m",
+      "FriendlyName": "Queclink GL500M",
+      "InternalName": "queclinkgl500m",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11628,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "queclinkgl50b",
+      "FriendlyName": "Queclink GL50B",
+      "InternalName": "queclinkgl50b",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11633,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgl520",
+      "FriendlyName": "Queclink GL520",
+      "InternalName": "queclinkgl520",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11622,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgmt100",
+      "FriendlyName": "Queclink GMT100",
+      "InternalName": "queclinkgmt100",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11608,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgmt200",
+      "FriendlyName": "Queclink GMT200",
+      "InternalName": "queclinkgmt200",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11614,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgs100",
+      "FriendlyName": "Queclink GS100",
+      "InternalName": "queclinkgs100",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11615,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgt300",
+      "FriendlyName": "Queclink GT300",
+      "InternalName": "queclinkgt300",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11605,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgt301",
+      "FriendlyName": "Queclink GT301",
+      "InternalName": "queclinkgt301",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11613,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgt500",
+      "FriendlyName": "Queclink GT500",
+      "InternalName": "queclinkgt500",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11606,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgv200",
+      "FriendlyName": "Queclink GV200",
+      "InternalName": "queclinkgv200",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11619,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgv300",
+      "FriendlyName": "Queclink GV300",
+      "InternalName": "queclinkgv300",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11610,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgv300can",
+      "FriendlyName": "Queclink GV300CAN",
+      "InternalName": "queclinkgv300can",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11623,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgv300w",
+      "FriendlyName": "Queclink GV300W",
+      "InternalName": "queclinkgv300w",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11617,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "queclinkgv350m",
+      "FriendlyName": "Queclink GV350M",
+      "InternalName": "queclinkgv350m",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11629,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgv500",
+      "FriendlyName": "Queclink GV500",
+      "InternalName": "queclinkgv500",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11601,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "queclinkgv500ma",
+      "FriendlyName": "Queclink GV500MA",
+      "InternalName": "queclinkgv500ma",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11630,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "queclinkgv500map",
+      "FriendlyName": "Queclink GV500MAP",
+      "InternalName": "queclinkgv500map",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11631,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgv50m",
+      "FriendlyName": "Queclink GV50M",
+      "InternalName": "queclinkgv50m",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11625,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgv55",
+      "FriendlyName": "Queclink GV55",
+      "InternalName": "queclinkgv55",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11609,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgv56",
+      "FriendlyName": "Queclink GV56",
+      "InternalName": "queclinkgv56",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11624,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "queclinkgv600mg",
+      "FriendlyName": "Queclink GV600MG",
+      "InternalName": "queclinkgv600mg",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11632,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgv65",
+      "FriendlyName": "Queclink GV65",
+      "InternalName": "queclinkgv65",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11611,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgv75",
+      "FriendlyName": "Queclink GV75",
+      "InternalName": "queclinkgv75",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11612,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinkgv75w",
+      "FriendlyName": "Queclink GV75W",
+      "InternalName": "queclinkgv75w",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11618,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "queclinktrs",
+      "FriendlyName": "Queclink TRS",
+      "InternalName": "queclinktrs",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11602,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "raveon",
+      "FriendlyName": "Raveon",
+      "InternalName": "raveon",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11702,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "roadsay",
+      "FriendlyName": "Roadsay",
+      "InternalName": "roadsay",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11701,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "ruptela",
+      "FriendlyName": "Ruptela",
+      "InternalName": "ruptela",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11703,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "ruptela_old",
+      "FriendlyName": "Ruptela",
+      "InternalName": "ruptela_old",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11700,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "sanav",
+      "FriendlyName": "Sanav",
+      "InternalName": "sanav",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11801,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "satellitesolutions",
+      "FriendlyName": "Satellite Solutions",
+      "InternalName": "satellitesolutions",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11806,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "seeworld",
+      "FriendlyName": "Seeworld",
+      "InternalName": "seeworld",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11817,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "seeworlds102t",
+      "FriendlyName": "Seeworld S102T",
+      "InternalName": "seeworlds102t",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11820,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "seeworlds112u",
+      "FriendlyName": "Seeworld S112U",
+      "InternalName": "seeworlds112u",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11821,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "silicontechlabs",
+      "FriendlyName": "Silicon Techlabs",
+      "InternalName": "silicontechlabs",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11804,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "siwi",
+      "FriendlyName": "SIWI",
+      "InternalName": "siwi",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11807,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "skypatrol",
+      "FriendlyName": "Skypatrol",
+      "InternalName": "skypatrol",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11802,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "skytrackjb101",
+      "FriendlyName": "SkyTrack JB101",
+      "InternalName": "skytrackjb101",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11800,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "speedotrack",
+      "FriendlyName": "Speedotrack",
+      "InternalName": "speedotrack",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11808,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "spetrotec",
+      "FriendlyName": "Spetrotec",
+      "InternalName": "spetrotec",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11816,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "spystoreitaliaperfect3",
+      "FriendlyName": "SpyStoreItalia Perfect 3",
+      "InternalName": "spystoreitaliaperfect3",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11805,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "starcom",
+      "FriendlyName": "Starcom",
+      "InternalName": "starcom",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11814,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "suntech",
+      "FriendlyName": "Suntech",
+      "InternalName": "suntech",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11803,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "suntechst200",
+      "FriendlyName": "Suntech ST200",
+      "InternalName": "suntechst200",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11809,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "suntechst300",
+      "FriendlyName": "Suntech ST300",
+      "InternalName": "suntechst300",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11810,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "suntechst300k",
+      "FriendlyName": "Suntech ST300K",
+      "InternalName": "suntechst300k",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11819,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "suntechst3940",
+      "FriendlyName": "Suntech ST3940",
+      "InternalName": "suntechst3940",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11815,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "suntechst410",
+      "FriendlyName": "Suntech ST410",
+      "InternalName": "suntechst410",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11818,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "suntechst500",
+      "FriendlyName": "Suntech ST500",
+      "InternalName": "suntechst500",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11811,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "suntechst600",
+      "FriendlyName": "Suntech ST600",
+      "InternalName": "suntechst600",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11812,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "suntechst910",
+      "FriendlyName": "Suntech ST910",
+      "InternalName": "suntechst910",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11813,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "telcomip",
+      "FriendlyName": "TelcomIP Patrol Scan",
+      "InternalName": "telcomip",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11909,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "telic",
+      "FriendlyName": "Telic",
+      "InternalName": "telic",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11920,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "teltonikaat",
+      "FriendlyName": "Teltonika AT",
+      "InternalName": "teltonikaat",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11913,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "teltonikafm",
+      "FriendlyName": "Teltonika FM",
+      "InternalName": "teltonikafm",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11922,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "teltonikafm_old1",
+      "FriendlyName": "Teltonika FM",
+      "InternalName": "teltonikafm_old1",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11900,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "teltonikafm_old2",
+      "FriendlyName": "Teltonika FM",
+      "InternalName": "teltonikafm_old2",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11919,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "teltonikagh",
+      "FriendlyName": "Teltonika GH",
+      "InternalName": "teltonikagh",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11901,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "tenet",
+      "FriendlyName": "Tenet",
+      "InternalName": "tenet",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11923,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "thinkpower",
+      "FriendlyName": "Thinkpower",
+      "InternalName": "thinkpower",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11918,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "tytan",
+      "FriendlyName": "Tytan",
+      "InternalName": "tytan",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11911,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "tkstar",
+      "FriendlyName": "TKSTAR",
+      "InternalName": "tkstar",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11912,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "tkstartk905",
+      "FriendlyName": "TKSTAR TK905",
+      "InternalName": "tkstartk905",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11921,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "tlt2h",
+      "FriendlyName": "TLT-2H",
+      "InternalName": "tlt2h",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11902,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "topflytech",
+      "FriendlyName": "Topflytech",
+      "InternalName": "topflytech",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11903,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "topin",
+      "FriendlyName": "Topin",
+      "InternalName": "topin",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11917,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "topten",
+      "FriendlyName": "TopTen",
+      "InternalName": "topten",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11915,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "totemtech",
+      "FriendlyName": "Totem Tech",
+      "InternalName": "totemtech",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11910,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "tracerx2",
+      "FriendlyName": "Tracer X2",
+      "InternalName": "tracerx2",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11908,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "trackpro",
+      "FriendlyName": "TrackPro",
+      "InternalName": "trackpro",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11907,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "tramigo",
+      "FriendlyName": "Tramigo",
+      "InternalName": "tramigo",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11916,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "twig",
+      "FriendlyName": "TWIG",
+      "InternalName": "twig",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11914,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "trackertechnologymsp340",
+      "FriendlyName": "Tracker Technology MSP340",
+      "InternalName": "trackertechnologymsp340",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11905,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "trackertechnologymsp350",
+      "FriendlyName": "Tracker Technology MSP350",
+      "InternalName": "trackertechnologymsp350",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11906,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "tzonedigital",
+      "FriendlyName": "TZoneDigital",
+      "InternalName": "tzonedigital",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 11904,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "ulbotech",
+      "FriendlyName": "Ulbotech",
+      "InternalName": "ulbotech",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12015,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "uniguard",
+      "FriendlyName": "Uniguard",
+      "InternalName": "uniguard",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12021,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknown056",
+      "FriendlyName": "Unknown 056",
+      "InternalName": "unknown056",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12018,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknown807rf",
+      "FriendlyName": "Unknown 807RF",
+      "InternalName": "unknown807rf",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12029,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowncctr800",
+      "FriendlyName": "Unknown CCTR-800",
+      "InternalName": "unknowncctr800",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 9501,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowng64",
+      "FriendlyName": "Unknown G64",
+      "InternalName": "unknowng64",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12013,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowngm908",
+      "FriendlyName": "Unknown GM908",
+      "InternalName": "unknowngm908",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12004,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowngp106m",
+      "FriendlyName": "Unknown GP106M",
+      "InternalName": "unknowngp106m",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12006,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowngpst1086",
+      "FriendlyName": "Unknowng GPST1086",
+      "InternalName": "unknowngpst1086",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12032,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknownhw18",
+      "FriendlyName": "Unknown HW18",
+      "InternalName": "unknownhw18",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12019,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknownm60",
+      "FriendlyName": "Unknown M60",
+      "InternalName": "unknownm60",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12008,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknownpg88",
+      "FriendlyName": "Unknown PG88",
+      "InternalName": "unknownpg88",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 9500,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknownpolgps1",
+      "FriendlyName": "Unknown PolGPS1",
+      "InternalName": "unknownpolgps1",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12007,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknownpt3000",
+      "FriendlyName": "Unknown PT3000",
+      "InternalName": "unknownpt3000",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12017,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknownstl060",
+      "FriendlyName": "Unknown STL060",
+      "InternalName": "unknownstl060",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12016,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknownt0024",
+      "FriendlyName": "Unknown T0024",
+      "InternalName": "unknownt0024",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12009,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk103",
+      "FriendlyName": "Unknown TK103",
+      "InternalName": "unknowntk103",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12022,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk103_2",
+      "FriendlyName": "Unknown TK103_2",
+      "InternalName": "unknowntk103_2",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12023,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk103_3",
+      "FriendlyName": "Unknown TK103_3",
+      "InternalName": "unknowntk103_3",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12024,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk103_4",
+      "FriendlyName": "Unknown TK103_4",
+      "InternalName": "unknowntk103_4",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12025,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk103_5",
+      "FriendlyName": "Unknown TK103_5",
+      "InternalName": "unknowntk103_5",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12026,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk103_old",
+      "FriendlyName": "Unknown TK103",
+      "InternalName": "unknowntk103_old",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12001,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk103_old_5002",
+      "FriendlyName": "Unknown TK103_5002",
+      "InternalName": "unknowntk103_old_5002",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 5002,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk103_2_old",
+      "FriendlyName": "Unknown TK103_2",
+      "InternalName": "unknowntk103_2_old",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12003,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk103_3_old",
+      "FriendlyName": "Unknown TK103_3",
+      "InternalName": "unknowntk103_3_old",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12005,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk103_4_old",
+      "FriendlyName": "Unknown TK103_4",
+      "InternalName": "unknowntk103_4_old",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12012,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk103_5_old",
+      "FriendlyName": "Unknown TK103_5",
+      "InternalName": "unknowntk103_5_old",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12014,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk106",
+      "FriendlyName": "Unknown TK106",
+      "InternalName": "unknowntk106",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12000,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntk20g",
+      "FriendlyName": "Unknown TK20G",
+      "InternalName": "unknowntk20g",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12031,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntl206",
+      "FriendlyName": "Unknown TL206",
+      "InternalName": "unknowntl206",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12002,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "unknowntl601",
+      "FriendlyName": "Unknown TL601",
+      "InternalName": "unknowntl601",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12033,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknowntr10",
+      "FriendlyName": "Unknown TR10",
+      "InternalName": "unknowntr10",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12030,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "unknowntr20",
+      "FriendlyName": "Unknown TR20",
+      "InternalName": "unknowntr20",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12034,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknownvt206",
+      "FriendlyName": "Unknown VT206",
+      "InternalName": "unknownvt206",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12010,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "unknownwb1g",
+      "FriendlyName": "Unknown WB-1G",
+      "InternalName": "unknownwb1g",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12020,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "vectras",
+      "FriendlyName": "Vectras",
+      "InternalName": "vectras",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12104,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "vgmatics",
+      "FriendlyName": "Vgmatics",
+      "InternalName": "vgmatics",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12103,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "visiontek86vtu",
+      "FriendlyName": "Visiontek 84VTU/86VTU",
+      "InternalName": "visiontek86vtu",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12100,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "visiontek87vtu",
+      "FriendlyName": "Visiontek 87VTU",
+      "InternalName": "visiontek87vtu",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12101,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "wialonips",
+      "FriendlyName": "Wialon IPS",
+      "InternalName": "wialonips",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12200,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+	{
+      "Id": "watret",
+      "FriendlyName": "Watret",
+      "InternalName": "watret",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12201,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "xexun",
+      "FriendlyName": "Xexun",
+      "InternalName": "xexun",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12300,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "yuwei",
+      "FriendlyName": "Yuwei",
+      "InternalName": "yuwei",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12400,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    },
+    {
+      "Id": "zendazdvt2",
+      "FriendlyName": "Zenda ZD-VT2",
+      "InternalName": "zendazdvt2",
+      "ListenProtocol": "Tcp/Udp",
+      "ListenPort": 12500,
+      "IsListenerEnabled": true,
+      "IsLogEnabled": true
+    }
+  ]
+}
