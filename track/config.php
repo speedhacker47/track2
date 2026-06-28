@@ -7,7 +7,7 @@
         $gsValues['VERSION_ID'] = 4000;
         $gsValues['VERSION'] = '4.0';
         
-        $gsValues['HTTP_MODE'] = 'https'; // options: http/https
+        $gsValues['HTTP_MODE'] = 'http'; // options: http/https
         
         // lock admin to IP addresses, example $gsValues['ADMIN_IP'] = '127.0.0.1,222.222.222.222,333.333.333.333';
         $gsValues['ADMIN_IP'] = '';
